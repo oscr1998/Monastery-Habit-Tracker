@@ -1,6 +1,6 @@
 Monastery Habit Tracker
 
-https://user-images.githubusercontent.com/104166937/212286856-6e25d83c-84c9-401d-a795-b546b396ad58.mp4
+https://user-images.githubusercontent.com/104166937/212287446-52bdd9d4-b587-428d-8c4c-0f3090fbd779.mp4
 
 # Monastery Habit Tracking
 
