@@ -1,8 +1,6 @@
-# Lap_2_Project_Monastery
+Monastery Habit Tracker
 
-## _Kai, Dave, Ahmed, Oliver, and Peter_
-
-## ![Monastery Habit Tracking](./media/Monastery.png "Monastery Habit Tracking Logo")
+https://user-images.githubusercontent.com/104166937/212286856-6e25d83c-84c9-401d-a795-b546b396ad58.mp4
 
 # Monastery Habit Tracking
 
@@ -49,17 +47,6 @@ Monastery Habit Tracking is an habit tracking mobile app, using X. Y, and Z tech
 ## Bugs
 
 [] Monks refusing to change their habits, despite the smell
-
-## Wins & Challenges
-
-### Wins
-
-- Good Team Members
-- Fun app idea
-
-### Challenges
-
-- Not using too many puns
 
 ---
 
